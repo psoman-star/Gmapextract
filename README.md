@@ -1,8 +1,8 @@
-# Google Map Data Extractor Pro 3.2.2 with Unlimited License Key Generator
+# Google Map Data Extractor Pro 3.2.7 with Unlimited License Key Generator
 
 🚀 **Unlock Global Business Data & Build Your Reseller Empire** 🚀
 
-![Version](https://img.shields.io/badge/Version-3.2.2-blue) 
+![Version](https://img.shields.io/badge/Version-3.2.7-blue) 
 ![License](https://img.shields.io/badge/License-Unlimited_Reseller-green) 
 ![Platform](https://img.shields.io/badge/Platform-Windows_7+-orange) 
 ![Support](https://img.shields.io/badge/Support-24/7/365-brightgreen)
