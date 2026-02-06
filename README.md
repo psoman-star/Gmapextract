@@ -1,4 +1,5 @@
-# Google Map Data Extractor Pro 3.2.7 with Unlimited License Key Generator
+# Google Maps Data Extractor & Lead Scraper–Multi-Language Business Tool with License Key Generator
+Extract business leads and contact data from Google Maps with ease. Google Maps Data Extractor & Lead Scraper helps you collect names, addresses, websites, emails, and phone numbers from any location or category. Built with multi-language support and an integrated license key generator, it’s a complete solution for marketers, digital agencies, and professionals who need unlimited lead generation power.
 
 🚀 **Unlock Global Business Data & Build Your Reseller Empire** 🚀
 
@@ -8,6 +9,17 @@
 ![Support](https://img.shields.io/badge/Support-24/7/365-brightgreen)
 
 **Extract. License. Scale.** — The ultimate toolkit for marketers, agencies, and resellers to harvest Google Maps data in 67 languages and generate unlimited licenses for SaaS or resale.
+
+
+**Key Features** 
+- All Languages Supported (67 Languages) – Choose your preferred display language with full multilingual compatibility.
+- Business Data Extraction – Instantly extract Business Name, Category, Rating, Reviews, Address, and Hours.
+- Contact Information – Gather Phone Numbers and Emails with high accuracy.
+- Location Details – Retrieve precise Longitude and Latitude coordinates for every business.
+- Website & Social Links – Extract Website, Facebook, Instagram, LinkedIn, and Twitter URLs automatically.
+- Image Extraction – Capture and download business images directly from Google Maps listings.
+- Multi-Threaded Email Extraction – Process multiple queries simultaneously for faster results.
+- Export Options – Easily export all extracted data to Excel (CSV/XLSX) for reporting or CRM integration.
 
 ## 📞 Support
 
